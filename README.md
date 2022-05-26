@@ -1,5 +1,7 @@
 <h1>Useful Resources<h1>
   
+  ## React Components & Libraries
+- <a href="https://bestofreactjs.com/repo/amarofashion-react-credit-cards-react-component-libraries">A slick credit card component for React.<a/>
   
  ## Design
 - <a href="https://freebiesbug.com/">Freebiesbug<a/>
