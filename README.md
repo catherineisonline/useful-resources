@@ -69,7 +69,6 @@
   
 ------------------------------------------------------------------------------------------------------------------
   ## Fonts <a id="Fonts"></a> 
-  
 - <a href="https://fonts.google.com/">Google Fonts<a/>
 - <a href="https://fontstorage.com/">Font Storage<a/>
 - <a href="https://www.onlinewebfonts.com/fonts">OnlineWebFonts<a/>
