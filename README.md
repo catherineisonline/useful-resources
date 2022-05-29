@@ -1,7 +1,6 @@
 # Useful Resources
 #### This is a collection of useful resources for front end developers gathered from all around the web and of course my bookmarks!
-
-
+   
 ## Jump to the section
 - [React Components & Libraries](#reactlibs)
 - [Design](#design)
