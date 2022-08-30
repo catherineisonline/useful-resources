@@ -18,6 +18,10 @@
 - [CSS Animations](#CSSAnimations)
 - [Static Deployment](#StaticDeployment)
 - [Dynamic Deployment](#DynamicDeployment)
+- [Create Data](#CreateData)
+- [Converters](#Converters)
+- [Responsive Design](#ResponsiveDesign)
+- [Image Optimization](#ImageOptimization)
   
 ## React Components & Libraries <a id="reactlibs"></a> 
 - <a href="https://bestofreactjs.com/repo/amarofashion-react-credit-cards-react-component-libraries">A slick credit card component for React.<a/>
@@ -127,3 +131,16 @@
 - <a href="https://www.netlify.com/pricing/">Netlify<a/>
 - <a href="https://vercel.com/pricing">Vercel<a/>
 - <a href="https://firebase.google.com/">Firebase<a/>
+------------------------------------------------------------------------------------------------------------------
+## Create Data <a id="CreateData"></a> 
+- <a href="https://www.mockaroo.com/">Mockaroo<a/>
+------------------------------------------------------------------------------------------------------------------
+## Converters <a id="Converters"></a> 
+- <a href="https://css2js.dotenv.dev/">Convert CSS to JS Object, JSX props, etc.<a/>
+------------------------------------------------------------------------------------------------------------------
+## Responsive Design <a id="ResponsiveDesign"></a> 
+- <a href="https://responsively.app/">Check responsiveness on different devices<a/>
+------------------------------------------------------------------------------------------------------------------
+## Image Optimization <a id="ImageOptimization"></a> 
+- <a href="https://squoosh.app/">Squoosh<a/>
+- <a href="https://tinypng.com/">TinyPNG<a/>
