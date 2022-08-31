@@ -22,6 +22,7 @@
 - [Converters](#Converters)
 - [Responsive Design](#ResponsiveDesign)
 - [Image Optimization](#ImageOptimization)
+- [Learning](#Learning)
   
 ## React Components & Libraries <a id="reactlibs"></a> 
 - <a href="https://bestofreactjs.com/repo/amarofashion-react-credit-cards-react-component-libraries">A slick credit card component for React.<a/>
@@ -144,3 +145,8 @@
 ## Image Optimization <a id="ImageOptimization"></a> 
 - <a href="https://squoosh.app/">Squoosh<a/>
 - <a href="https://tinypng.com/">TinyPNG<a/>
+
+------------------------------------------------------------------------------------------------------------------
+## Learning <a id="Learning"></a> 
+- <a href="https://ui.dev/javascript-visualizer">JS Visualizer<a/> 
+
