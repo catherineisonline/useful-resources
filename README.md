@@ -9,12 +9,11 @@
 - [Color Palette](#ColorPalette)
 - [Icons](#Icons)
 - [Fonts](#Fonts)
-- [Fonts](#LogoGenerators)
+- [Logo Generators](#LogoGenerators)
 - [Gradient Generators](#GradientGenerators)
 - [Patterns](#Patterns)
 - [Dividers](#Dividers)
 - [CSS Animations](#CSSAnimations)
-- [Image Stocks](#ImageStocks)
 - [CSS Animations](#CSSAnimations)
 - [Static Deployment](#StaticDeployment)
 - [Dynamic Deployment](#DynamicDeployment)
@@ -22,7 +21,11 @@
 - [Converters](#Converters)
 - [Responsive Design](#ResponsiveDesign)
 - [Image Optimization](#ImageOptimization)
-- [Learning](#Learning)
+- [Image & Video Stocks](#ImageStocks)
+- [Image & Video Editing](#ImageVideoEditing)
+- [Learning JavaScript](#LearningJavaScript)
+- [Shadows](#Shadows)
+- [Animations & Effects](#AnimationsEffects)
   
 ## React Components & Libraries <a id="reactlibs"></a> 
 - <a href="https://bestofreactjs.com/repo/amarofashion-react-credit-cards-react-component-libraries">A slick credit card component for React.<a/>
@@ -63,32 +66,57 @@
 - <a href="https://www.shutterstock.com/blog/color-palettes-for-websites"> 30 Refreshing Color Palette Ideas for Your Website<a/>
 - <a href="https://websitesetup.org/website-color-schemes/"> 56 Website Color Schemes for 2021<a/>
 - <a href="https://graphicmama.com/blog/website-color-schemes/"> 39 Inspiring Website Color Schemes<a/>
-------------------------------------------------------------------------------------------------------------------
-  ## Icons <a id="Icons"></a> 
--  <a href="https://www.flaticon.com/">Flaticon<a/>
-- <a href="https://www.iconfinder.com/">IconFinder<a/>
-- <a href="https://www.onlinewebfonts.com/icon/search?q=youtube">Icons on OnlineWebFonts<a/>
-- <a href="https://icomoon.io/">IconMoon<a/>
-- <a href="https://boxicons.com/">Boxicons<a/>
-  
-------------------------------------------------------------------------------------------------------------------
-  ## Fonts <a id="Fonts"></a> 
-- <a href="https://fonts.google.com/">Google Fonts<a/>
-- <a href="https://fontstorage.com/">Font Storage<a/>
-- <a href="https://www.onlinewebfonts.com/fonts">OnlineWebFonts<a/>
-- <a href="https://www.freefonts.io/">FreeFonts<a/>
-- <a href="https://www.behance.net/search?search=free%20font">Behance<a/>
-- <a href="https://habr.com/ru/company/ua-hosting/blog/337358/">Habr<a/>
------------------------------------------------------------------------------------------------------------------- 
-  ## Logo Generators <a id="LogoGenerators"></a> 
-- <a href="https://www.freelogodesign.org/">FreeLogoDesign (free for web 200x200)<a/>
-- <a href="https://www.renderforest.com/logo-maker">RenderForest (free for web 300x300)<a/>
-- <a href="https://www.logaster.com/"> Logaster (free для for 300x300)<a/>
+- [Color Mixer](https://colormixer.web.app/02007115ff623007ff9bc91b64440301ffff7c5f55610300/Sunset)
+- [Color Hexa](https://www.colorhexa.com/index.php)
+- [Colors Inspo](https://colorsinspo.com/)
+- [My Color](https://mycolor.space/)
+- [Palettte](https://palettte.app/)
 ------------------------------------------------------------------------------------------------------------------
   ## Gradient Generators <a id="GradientGenerators"></a> 
 - <a href="https://www.css-gradient.com/"> CSS Gradient<a/>
 - <a href="https://cssgradient.io/"> cssgradient.io<a/>
 - <a href="https://www.colorzilla.com/gradient-editor/"> Colorzilla<a/>
+- [Colorable](https://colorable.jxnblk.com/)
+------------------------------------------------------------------------------------------------------------------
+  ## Icons and Illustrations <a id="Icons"></a> 
+- <a href="https://www.flaticon.com/">Flaticon<a/>
+- <a href="https://www.iconfinder.com/">IconFinder<a/>
+- <a href="https://www.onlinewebfonts.com/icon/search?q=youtube">Icons on OnlineWebFonts<a/>
+- <a href="https://icomoon.io/">IconMoon<a/>
+- <a href="https://boxicons.com/">Boxicons<a/>
+- [Blush](https://blush.design/collections/ncvOzDOOfTq3GnVevYVz/go-green-illustrations)
+- [Open Peeps](https://www.openpeeps.com/)
+- [Smash Illustrations](https://usesmash.com/)
+- [Open Doodles](https://www.opendoodles.com/)
+- [Avataaars Generator](https://getavataaars.com/?topType=LongHairBob)
+- [Icon Store](https://iconstore.co/)
+- [CSS Icons](https://css.gg/)
+- [Tilda Icons](https://tilda.cc/free-icons/)
+- [Ikonate](https://ikonate.com/)
+- [Eva Icons](https://akveo.github.io/eva-icons/#/)
+- [Animated Icons](https://icons8.com/animated-icons)
+
+ 
+------------------------------------------------------------------------------------------------------------------
+  ## Fonts <a id="Fonts"></a> 
+- [Google Fonts](href="https://fonts.google.com/)
+- <a href="https://fontstorage.com/">Font Storage<a/>
+- <a href="https://www.onlinewebfonts.com/fonts">OnlineWebFonts<a/>
+- <a href="https://www.freefonts.io/">FreeFonts<a/>
+- <a href="https://www.behance.net/search?search=free%20font">Behance<a/>
+- <a href="https://habr.com/ru/company/ua-hosting/blog/337358/">Habr<a/>
+- [Freebies Bug](https://freebiesbug.com/free-fonts/)
+- [BeFonts](https://befonts.com/)
+- [Font Joy](https://fontjoy.com/)
+- [Font Squirrel](https://www.fontsquirrel.com/)
+- [Fonts Arena](https://fontsarena.com/)
+- [Type Scale](https://type-scale.com/)
+------------------------------------------------------------------------------------------------------------------ 
+  ## Logo Generators <a id="LogoGenerators"></a> 
+- <a href="https://www.freelogodesign.org/">FreeLogoDesign<a/>
+- <a href="https://www.renderforest.com/logo-maker">RenderForest<a/>
+- <a href="https://www.logaster.com/"> Logaster<a/>
+
 ------------------------------------------------------------------------------------------------------------------ 
   ## Patterns <a id="Patterns"></a> 
 - <a href="https://heropatterns.com/">Hero Patterns<a/>
@@ -101,26 +129,64 @@
 - <a href="http://www.patternify.com/">Patternify<a/>
 - <a href="http://www.kennethcachia.com/plain-pattern/app/">Plain Pattern<a/>
 - <a href="https://patternico.com/">Patternico<a/>
+- [Bansal](https://bansal.io/pattern-css#triangles)
+- [Get Waves](https://getwaves.io/)
+- [Blob Maker](https://www.blobmaker.app/)
+- [Rad Lines](https://msurguy.github.io/rad-lines/)
+
 ------------------------------------------------------------------------------------------------------------------
    ## Dividers <a id="Dividers"></a> 
   
 - <a href="https://wavier.art/"> Wave Border Generator<a/>
 - <a href="https://www.shapedivider.app/">Shape divider<a/>
 - <a href="https://app.haikei.app/">Haikei<a/>
+- [CSS Separator](https://wweb.dev/resources/css-separator-generator/)
 ------------------------------------------------------------------------------------------------------------------
-  ## CSS Animations <a id="CSSAnimations"></a> 
+  ## Animations & Effects <a id="CSSAnimations"></a> 
    
 - <a href="https://codepen.io/trending">Codepen<a/>
 - <a href="https://freefrontend.com/css-animation-examples/">77 CSS Animation Examples<a/>
 - <a href="https://blog.hubspot.com/website/css-animation-examples">24 Creative and Unique CSS Animation Examples to Inspire Your Own<a/>
 - <a href="https://blog.avada.io/css/animation-examples">50+ CSS Animation Examples<a/>
+- [Animista](https://animista.net/)
+- [Draggable](https://shopify.github.io/draggable/)
+- [Block Revealers](https://tympanus.net/Development/BlockRevealers/index.html)
+- [Icons Transition](https://nucleoapp.com/tool/icon-transition)
   
 ------------------------------------------------------------------------------------------------------------------
-  ## Image Stocks <a id="ImageStocks"></a> 
+## Shadows <a id="Shadows"></a> 
+
+- [Shadows Brumm](https://shadows.brumm.af/)
+- [Box Shadow](https://box-shadow.dev/)
+- [CSS Generator](https://cssgenerator.org/box-shadow-css-generator.html)
+- [CSS Matic](https://www.cssmatic.com/box-shadow)
+- [HTML CSS JS](https://html-css-js.com/css/generator/box-shadow/)
+- [HTML CSS Freebies](https://htmlcssfreebies.com/box-shadow-generator-multiple/)
+- [Neumorphism](https://neumorphism.io/#e0e0e0)
+- [Josh Comeau](https://www.joshwcomeau.com/shadow-palette/)
+- [CSS# Studio](http://css3studio.com/page-css3/css-box-shadow.php)
+- [CSS Portal](https://www.cssportal.com/css3-box-shadow-generator/)
+- [Webcode](https://webcode.tools/generators/css/drop-shadow)
+
+------------------------------------------------------------------------------------------------------------------
+  ## Image & Video Stocks <a id="ImageStocks"></a> 
 - <a href="https://www.pexels.com/">Pexels<a/>
 - <a href="https://unsplash.com/">Unsplash<a/>
 - <a href="https://pixabay.com/ru/">Pixabay<a/>
 - <a href="https://www.freepik.com/popular-photos">FreePik<a/>
+- [Coverr](https://coverr.co/)
+- [MixKIt](https://mixkit.co/)
+- [Icons8](https://icons8.com/photos/t/programming)
+- [Generated photoes](https://generated.photos/faces)
+
+------------------------------------------------------------------------------------------------------------------
+
+  ## Image & Video Editing <a id="ImageVideoEditing"></a> 
+  
+- [Unscreen](https://www.unscreen.com/)
+- [RemoveBG](https://www.remove.bg/)
+
+  
 ------------------------------------------------------------------------------------------------------------------
   ## Static Deployment <a id="StaticDeployment"></a> 
   
@@ -147,6 +213,9 @@
 - <a href="https://tinypng.com/">TinyPNG<a/>
 
 ------------------------------------------------------------------------------------------------------------------
-## Learning <a id="Learning"></a> 
+## Learning JavaScript <a id="LearningJavaScript"></a> 
 - <a href="https://ui.dev/javascript-visualizer">JS Visualizer<a/> 
+- [1-Liners in JavaScript](https://1loc.dev/)
+- [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/)
+
 
