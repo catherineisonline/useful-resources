@@ -1,5 +1,5 @@
 # Useful Resources
-#### This is a collection of useful resources for front end developers gathered from all around the web and of course my bookmarks!
+#### This is a collection of useful resources for front-end developers gathered from all around the web and of course my bookmarks!
    
 ## Jump to the section
 - [React Components & Libraries](#reactlibs)
@@ -29,6 +29,16 @@
   
 ## React Components & Libraries <a id="reactlibs"></a> 
 - <a href="https://bestofreactjs.com/repo/amarofashion-react-credit-cards-react-component-libraries">A slick credit card component for React.<a/>
+- [Visx](https://airbnb.io/visx/)
+- [Prime React](https://primereact.org/)
+- [React Router](https://reactrouter.com/en/main)
+- [Material UI](https://mui.com/)
+- [Ant Design](https://ant.design/)
+- [Headless UI](https://headlessui.com/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Blueprint](https://blueprintjs.com/)
+- [Fluent 2](https://airbnb.io/visx/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
 ------------------------------------------------------------------------------------------------------------------
 ## Design <a id="design"></a> 
 - <a href="https://freebiesbug.com/">Freebiesbug<a/>
@@ -63,14 +73,16 @@
   
 ------------------------------------------------------------------------------------------------------------------ 
   ## Color Palette <a id="ColorPalette"></a> 
-- <a href="https://www.shutterstock.com/blog/color-palettes-for-websites"> 30 Refreshing Color Palette Ideas for Your Website<a/>
-- <a href="https://websitesetup.org/website-color-schemes/"> 56 Website Color Schemes for 2021<a/>
-- <a href="https://graphicmama.com/blog/website-color-schemes/"> 39 Inspiring Website Color Schemes<a/>
 - [Color Mixer](https://colormixer.web.app/02007115ff623007ff9bc91b64440301ffff7c5f55610300/Sunset)
 - [Color Hexa](https://www.colorhexa.com/index.php)
 - [Colors Inspo](https://colorsinspo.com/)
-- [My Color](https://mycolor.space/)
+- [My Color Space](https://mycolor.space/)
 - [Palettte](https://palettte.app/)
+- [Coolors](https://coolors.co/)
+- [Sip App](https://sipapp.io/)
+- [Color Mind](http://colormind.io/)
+- [CSSGradient](https://cssgradient.io/)
+- [Color Box](https://colorbox.io/)
 ------------------------------------------------------------------------------------------------------------------
   ## Gradient Generators <a id="GradientGenerators"></a> 
 - <a href="https://www.css-gradient.com/"> CSS Gradient<a/>
@@ -110,6 +122,7 @@
 - [Font Joy](https://fontjoy.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fonts Arena](https://fontsarena.com/)
+- [Word Mark](https://wordmark.it/)
 - [Type Scale](https://type-scale.com/)
 ------------------------------------------------------------------------------------------------------------------ 
   ## Logo Generators <a id="LogoGenerators"></a> 
@@ -171,13 +184,14 @@
 ------------------------------------------------------------------------------------------------------------------
   ## Image & Video Stocks <a id="ImageStocks"></a> 
 - <a href="https://www.pexels.com/">Pexels<a/>
+- <a href="https://www.pexels.com/">Pexels<a/>
 - <a href="https://unsplash.com/">Unsplash<a/>
 - <a href="https://pixabay.com/ru/">Pixabay<a/>
 - <a href="https://www.freepik.com/popular-photos">FreePik<a/>
 - [Coverr](https://coverr.co/)
 - [MixKIt](https://mixkit.co/)
 - [Icons8](https://icons8.com/photos/t/programming)
-- [Generated photoes](https://generated.photos/faces)
+- [Generated photos](https://generated.photos/faces)
 
 ------------------------------------------------------------------------------------------------------------------
 
