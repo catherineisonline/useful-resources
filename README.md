@@ -39,6 +39,7 @@
 - [Blueprint](https://blueprintjs.com/)
 - [Fluent 2](https://airbnb.io/visx/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
+- [React Spring](https://www.react-spring.dev/)
 ------------------------------------------------------------------------------------------------------------------
 ## Design <a id="design"></a> 
 - <a href="https://freebiesbug.com/">Freebiesbug<a/>
@@ -83,6 +84,7 @@
 - [Color Mind](http://colormind.io/)
 - [CSSGradient](https://cssgradient.io/)
 - [Color Box](https://colorbox.io/)
+- [ColorZilla](http://www.colorzilla.com/)
 ------------------------------------------------------------------------------------------------------------------
   ## Gradient Generators <a id="GradientGenerators"></a> 
 - <a href="https://www.css-gradient.com/"> CSS Gradient<a/>
@@ -107,6 +109,9 @@
 - [Ikonate](https://ikonate.com/)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
 - [Animated Icons](https://icons8.com/animated-icons)
+- [Avataaars Generator](https://getavataaars.com/?topType=LongHairBob)
+- [Tilda Icons](https://tilda.cc/free-icons/)
+- [CSS Icons](https://css.gg/)
 
  
 ------------------------------------------------------------------------------------------------------------------
@@ -129,6 +134,7 @@
 - <a href="https://www.freelogodesign.org/">FreeLogoDesign<a/>
 - <a href="https://www.renderforest.com/logo-maker">RenderForest<a/>
 - <a href="https://www.logaster.com/"> Logaster<a/>
+- [LogoMakr](https://logomakr.com/) - An easy-to-use tool for designing logos with thousands of free icons.
 
 ------------------------------------------------------------------------------------------------------------------ 
   ## Patterns <a id="Patterns"></a> 
