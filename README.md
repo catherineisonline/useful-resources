@@ -60,6 +60,7 @@
 - <a href="https://html.design/">HTML Design<a/>
 - <a href="https://www.html5xcss3.com/c/free-website-templates">HTML5xCSS3<a/>
 - <a href="https://cssauthor.com/free-responsive-html5-css3-website-templates/">Cssauthor<a/>
+- [Component library](https://ui.shadcn.com/)
 ------------------------------------------------------------------------------------------------------------------
   ## CSS Frameworks <a id="CSSFrameworks"></a> 
 - <a href="https://getbootstrap.com/">Bootstrap<a/>
