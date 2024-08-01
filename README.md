@@ -28,7 +28,7 @@
 - [Animations & Effects](#AnimationsEffects)
   
 ## React Components & Libraries <a id="reactlibs"></a> 
-- <a href="https://bestofreactjs.com/repo/amarofashion-react-credit-cards-react-component-libraries">A slick credit card component for React.<a/>
+
 - [Visx](https://airbnb.io/visx/)
 - [Prime React](https://primereact.org/)
 - [React Router](https://reactrouter.com/en/main)
@@ -48,7 +48,6 @@
 - <a href="https://365psd.com/free-psd">365psd<a/>
 - <a href="https://dribbble.com/">Dribbble<a/>
 - <a href="https://freedesignresources.net/category/free-templates/website-templates/">Free Design Resources<a/>
-- <a href="https://uispace.net/free-psd">UI Space<a/>
 ------------------------------------------------------------------------------------------------------------------
 ## Templates <a id="templates"></a> 
   
@@ -117,7 +116,7 @@
  
 ------------------------------------------------------------------------------------------------------------------
   ## Fonts <a id="Fonts"></a> 
-- [Google Fonts](href="https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/)
 - <a href="https://fontstorage.com/">Font Storage<a/>
 - <a href="https://www.onlinewebfonts.com/fonts">OnlineWebFonts<a/>
 - <a href="https://www.freefonts.io/">FreeFonts<a/>
@@ -134,8 +133,7 @@
   ## Logo Generators <a id="LogoGenerators"></a> 
 - <a href="https://www.freelogodesign.org/">FreeLogoDesign<a/>
 - <a href="https://www.renderforest.com/logo-maker">RenderForest<a/>
-- <a href="https://www.logaster.com/"> Logaster<a/>
-- [LogoMakr](https://logomakr.com/) - An easy-to-use tool for designing logos with thousands of free icons.
+- [LogoMakr](https://logomakr.com/)
 
 ------------------------------------------------------------------------------------------------------------------ 
   ## Patterns <a id="Patterns"></a> 
@@ -143,7 +141,6 @@
 - <a href="https://www.svgbackgrounds.com/">SVG Backgrounds<a/>
 - <a href="https://www.magicpattern.design/tools/css-backgrounds">CSS Background Patterns<a/>
 - <a href="https://philiprogers.com/svgpatterns/">SVG Patterns from Philip Rogers<a/>
-- <a href="http://thepatternlibrary.com/">the Pattern Library<a/>
 - <a href="https://products.ls.graphics/paaatterns/preview.html">Paaatterns<a/>
 - <a href="https://coolbackgrounds.io/">coolbackgrounds.io<a/>
 - <a href="http://www.patternify.com/">Patternify<a/>
@@ -191,7 +188,6 @@
 ------------------------------------------------------------------------------------------------------------------
   ## Image & Video Stocks <a id="ImageStocks"></a> 
 - <a href="https://www.pexels.com/">Pexels<a/>
-- <a href="https://www.pexels.com/">Pexels<a/>
 - <a href="https://unsplash.com/">Unsplash<a/>
 - <a href="https://pixabay.com/ru/">Pixabay<a/>
 - <a href="https://www.freepik.com/popular-photos">FreePik<a/>
@@ -212,10 +208,8 @@
   ## Static Deployment <a id="StaticDeployment"></a> 
   
 - <a href="https://pages.github.com/">Github Pages<a/>
-- <a href="https://www.digitalocean.com/pricing">DigitalOcean (up to 3 free static websites)<a/>
 ------------------------------------------------------------------------------------------------------------------
   ## Dynamic Deployment <a id="DynamicDeployment"></a> 
-- <a href="https://www.heroku.com/">Heroku<a/>
 - <a href="https://www.netlify.com/pricing/">Netlify<a/>
 - <a href="https://vercel.com/pricing">Vercel<a/>
 - <a href="https://firebase.google.com/">Firebase<a/>
@@ -236,7 +230,6 @@
 ------------------------------------------------------------------------------------------------------------------
 ## Learning JavaScript <a id="LearningJavaScript"></a> 
 - <a href="https://ui.dev/javascript-visualizer">JS Visualizer<a/> 
-- [1-Liners in JavaScript](https://1loc.dev/)
 - [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/)
 
 
