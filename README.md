@@ -2,6 +2,7 @@
 #### This is a collection of useful resources for front-end developers gathered from all around the web and of course my bookmarks!
    
 ## Jump to the section
+- [Learning](#learning)
 - [React Components & Libraries](#reactlibs)
 - [Design](#design)
 - [Templates](#templates)
@@ -26,6 +27,35 @@
 - [Learning JavaScript](#LearningJavaScript)
 - [Shadows](#Shadows)
 - [Animations & Effects](#AnimationsEffects)
+
+
+## Learning <a id="learning"></a> 
+Courses
+- [freeCodeCamp](https://www.freecodecamp.org/learn/)
+- [Codecademy](https://www.codecademy.com/learn)
+- [Sololearn](https://www.sololearn.com/en/)
+- [Atlassian](https://university.atlassian.com/student/catalog)
+- [Lambda School](https://learnworlds.bloomtech.com/course/beginning-your-coding-journey-html)
+Practice
+- [Chingu](https://www.chingu.io/)
+- [FrontendMentor](https://www.frontendmentor.io/)
+- [CodeCombat](https://codecombat.com/)
+YouTube
+- [Lydia Hallie](https://www.youtube.com/@theavocoder)
+- [Traversy](https://www.youtube.com/@TraversyMedia/videos)
+- [freeCodeCamp](https://www.youtube.com/@freeCodeCampTalks/videos)
+- [Mosh](https://www.youtube.com/@programmingwithmosh)
+Further reading
+- [Patterns](https://www.patterns.dev/react)
+- <a href="https://ui.dev/javascript-visualizer">JS Visualizer<a/> 
+- [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/simple-recursive/cellular-automata)
+- [JS for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
+- [React with TypeScript](https://devtut.github.io/typescript/using-typescript-with-react-js-native.html#reactjs-component-written-in-typescript)
+- [JS Algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [React course (video)](https://react2025.com/#course-overview)
+- [JavaScript in Georgian](https://webschool.ge/js/1289)
+- [Algorithms in Georgian](https://www.aiasoft.ge/tutorials)
   
 ## React Components & Libraries <a id="reactlibs"></a> 
 
@@ -228,8 +258,6 @@
 - <a href="https://tinypng.com/">TinyPNG<a/>
 
 ------------------------------------------------------------------------------------------------------------------
-## Learning JavaScript <a id="LearningJavaScript"></a> 
-- <a href="https://ui.dev/javascript-visualizer">JS Visualizer<a/> 
-- [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/)
+
 
 
