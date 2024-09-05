@@ -30,22 +30,22 @@
 
 
 ## Learning <a id="learning"></a> 
-Courses
+### Courses
 - [freeCodeCamp](https://www.freecodecamp.org/learn/)
 - [Codecademy](https://www.codecademy.com/learn)
 - [Sololearn](https://www.sololearn.com/en/)
 - [Atlassian](https://university.atlassian.com/student/catalog)
 - [Lambda School](https://learnworlds.bloomtech.com/course/beginning-your-coding-journey-html)
-Practice
+### Practice
 - [Chingu](https://www.chingu.io/)
 - [FrontendMentor](https://www.frontendmentor.io/)
 - [CodeCombat](https://codecombat.com/)
-YouTube
+### YouTube
 - [Lydia Hallie](https://www.youtube.com/@theavocoder)
 - [Traversy](https://www.youtube.com/@TraversyMedia/videos)
 - [freeCodeCamp](https://www.youtube.com/@freeCodeCampTalks/videos)
 - [Mosh](https://www.youtube.com/@programmingwithmosh)
-Further reading
+### Further reading
 - [Patterns](https://www.patterns.dev/react)
 - <a href="https://ui.dev/javascript-visualizer">JS Visualizer<a/> 
 - [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/)
