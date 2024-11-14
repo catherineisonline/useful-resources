@@ -16,7 +16,7 @@
 - [Dividers](#Dividers)
 - [CSS Animations](#CSSAnimations)
 - [CSS Animations](#CSSAnimations)
-- [Static Deployment](#StaticDeployment)
+- [Github](#github)
 - [Dynamic Deployment](#DynamicDeployment)
 - [Create Data](#CreateData)
 - [Converters](#Converters)
@@ -235,9 +235,10 @@
 
   
 ------------------------------------------------------------------------------------------------------------------
-  ## Static Deployment <a id="StaticDeployment"></a> 
+  ## GitHub <a id="github"></a> 
   
 - <a href="https://pages.github.com/">Github Pages<a/>
+- [Learn Git](https://learngitbranching.js.org/)
 ------------------------------------------------------------------------------------------------------------------
   ## Dynamic Deployment <a id="DynamicDeployment"></a> 
 - <a href="https://www.netlify.com/pricing/">Netlify<a/>
