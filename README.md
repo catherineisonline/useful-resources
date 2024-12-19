@@ -2,6 +2,7 @@
 #### This is a collection of useful resources for front-end developers gathered from all around the web and of course my bookmarks!
    
 ## Jump to the section
+- [Cheatsheets](#cheatsheets)
 - [Learning](#learning)
 - [React Components & Libraries](#reactlibs)
 - [Design](#design)
@@ -27,6 +28,85 @@
 - [Learning JavaScript](#LearningJavaScript)
 - [Shadows](#Shadows)
 - [Animations & Effects](#AnimationsEffects)
+
+## Cheatsheets <a id="cheatsheets"></a> 
+### HTML Cheatsheets  
+- [HTML & HTML5 Cheatsheet](https://htmlcheatsheet.com)  
+
+### CSS/SASS Cheatsheets  
+- [Sass Cheatsheet](https://devhints.io/sass)  
+- [Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+- [Grid Layout Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/)  
+- [Media Queries Cheatsheet](https://gist.github.com/bartholomej/8415655)  
+- [CSS-in-JS Cheatsheet](https://www.codecademy.com/learn/learn-css-in-js/modules/css-in-js-styling-your-applications/cheatsheet)  
+
+### JavaScript Cheatsheets  
+- [JavaScript Cheatsheet](https://devhints.io/es6)  
+- [ES6 Cheat Sheet](https://cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6/)  
+
+### React Cheatsheets  
+- [React Cheatsheet](https://reactcheatsheet.com)
+
+### Git Cheatsheets  
+- [Git Cheatsheet](https://git-tower.com/blog/git-cheat-sheet/)  
+- [Command Line Cheatsheet](https://git-tower.com/blog/command-line-cheat-sheet/)  
+
+### Web Accessibility Cheatsheets  
+- [WAI-ARIA 1.2 Cheat Sheet](https://www.digitala11y.com/wai-aria-1-1-cheat-sheet/)  
+
+### Backend Cheatsheets  
+- [HTTP Status Codes Cheatsheet](https://www.webfx.com/web-development/glossary/http-status-codes/)  
+
+### Performance Cheatsheets  
+- [Web Performance Cheat Sheet](https://carlogino.com/blog/improve-website-performance)  
+
+### jQuery Cheatsheets  
+- [jQuery Cheatsheet](https://htmlcheatsheet.com/jquery/)  
+### Webpack Cheatsheets  
+- [Webpack Cheatsheet](https://www.codecademy.com/learn/learn-build-tools/modules/building-apps-with-webpack/cheatsheet)  
+- [Webpack 5 Node Polyfills Upgrade Cheatsheet](https://gist.github.com/ef4/d2cf5672a93cf241fd47c020b9b3066a)  
+
+### Testing Cheatsheets  
+- [Front-End Testing Cheatsheet](https://www.fe.engineer/handbook/testing/cheatsheet/)  
+
+### Web Development Roadmap Cheatsheets  
+- [Web Development Roadmap Cheatsheet](https://roadmap.sh)  
+
+### SEO Cheatsheets  
+- [SEO Cheatsheet](https://moz.com/learn/seo/seo-cheat-sheet)  
+
+### GraphQL Cheatsheets  
+- [GraphQL Cheatsheet](https://graphql.org/learn/queries/)  
+
+### Jest Cheatsheets  
+- [Jest Cheatsheet](https://github.com/sapegin/jest-cheat-sheet)  
+
+### CSS Selectors Cheatsheets  
+- [CSS Selectors Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)  
+
+### Front-End Interview Questions Cheatsheets  
+- [Front-End Interview Questions Cheatsheet](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  
+
+### NPM Cheatsheets  
+- [NPM Cheatsheet](https://devhints.io/npm)  
+
+### HTTP/2 Cheatsheets  
+- [HTTP/2 Cheatsheet](http://http2.github.io/faq/)  
+
+### JSON Cheatsheets  
+- [JSON Cheatsheet](https://json.org/json-en.html)  
+
+### CSS Flexbox and Grid Cheatsheets  
+- [CSS Flexbox and Grid Cheatsheet](https://flexbox.malven.co/)  
+
+### Gatsby.js Cheatsheet
+- [gatsbyjs.com/docs/cheat-sheet/](https://gatsbyjs.com/docs/cheat-sheet/)
+
+### Node.js Cheatsheet
+- [devhints.io/nodejs](https://devhints.io/nodejs)
+
+### Build Tools and Frameworks:
+- [Gulp.js Cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
 
 
 ## Learning <a id="learning"></a> 
