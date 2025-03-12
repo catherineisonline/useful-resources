@@ -129,13 +129,16 @@
 - [Patterns](https://www.patterns.dev/react)
 - <a href="https://ui.dev/javascript-visualizer">JS Visualizer<a/> 
 - [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/)
-- [Algorithm Visualizer](https://algorithm-visualizer.org/simple-recursive/cellular-automata)
 - [JS for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [React with TypeScript](https://devtut.github.io/typescript/using-typescript-with-react-js-native.html#reactjs-component-written-in-typescript)
 - [JS Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [React course (video)](https://react2025.com/#course-overview)
 - [JavaScript in Georgian](https://webschool.ge/js/1289)
 - [Algorithms in Georgian](https://www.aiasoft.ge/tutorials)
+
+### Interactive learning
+- [Learn Git](https://learngitbranching.js.org/)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/simple-recursive/cellular-automata)
   
 ## React Components & Libraries <a id="reactlibs"></a> 
 
@@ -318,7 +321,6 @@
   ## GitHub <a id="github"></a> 
   
 - <a href="https://pages.github.com/">Github Pages<a/>
-- [Learn Git](https://learngitbranching.js.org/)
 ------------------------------------------------------------------------------------------------------------------
   ## Dynamic Deployment <a id="DynamicDeployment"></a> 
 - <a href="https://www.netlify.com/pricing/">Netlify<a/>
