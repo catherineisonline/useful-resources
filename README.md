@@ -1,8 +1,9 @@
 # Useful Resources
-#### This is a collection of useful resources for front-end developers gathered from all around the web and of course my bookmarks!
+#### This is a collection of useful resources for front-end developers gathered from around the web and my bookmarks!
    
 ## Jump to the section
 - [Cheatsheets](#cheatsheets)
+- [API](#api)
 - [Learning](#learning)
 - [React Components & Libraries](#reactlibs)
 - [Design](#design)
@@ -108,7 +109,10 @@
 ### Build Tools and Frameworks:
 - [Gulp.js Cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
 
+## API <a id="api"></a>
+- [Dummy JSON](https://dummyjson.com/docs)
 
+  
 ## Learning <a id="learning"></a> 
 ### Courses
 - [freeCodeCamp](https://www.freecodecamp.org/learn/)
