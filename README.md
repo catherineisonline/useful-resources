@@ -226,6 +226,7 @@
 - [Ikonate](https://ikonate.com/)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
 - [Animated Icons](https://icons8.com/animated-icons)
+- [More Animated Icons](https://icons.pqoqubbw.dev/)
 - [Avataaars Generator](https://getavataaars.com/?topType=LongHairBob)
 - [Tilda Icons](https://tilda.cc/free-icons/)
 - [CSS Icons](https://css.gg/)
