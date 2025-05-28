@@ -29,6 +29,8 @@
 - [Learning JavaScript](#LearningJavaScript)
 - [Shadows](#Shadows)
 - [Animations & Effects](#AnimationsEffects)
+- [AI tools](#ai)
+- [Other](#other)
 
 ## Cheatsheets <a id="cheatsheets"></a> 
 ### HTML Cheatsheets  
@@ -143,6 +145,7 @@
 ### Interactive learning
 - [Learn Git](https://learngitbranching.js.org/)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/simple-recursive/cellular-automata)
+- [Visualising Data Structures](https://visualgo.net/en)
   
 ## React Components & Libraries <a id="reactlibs"></a> 
 
@@ -346,6 +349,12 @@
 - <a href="https://tinypng.com/">TinyPNG<a/>
 
 ------------------------------------------------------------------------------------------------------------------
+## AI tools <a id="ai"></a> 
+- [AI Color - Palette Generator](https://www.bairesdev.com/tools/ai-colors)
+- [Unstuck Study - Video to text and more](https://unstuckstudy.com/)
 
+------------------------------------------------------------------------------------------------------------------
 
-
+## Other <a id="other"></a> 
+- [CanIUse - check browser support](https://caniuse.com/)
+- [Device Frames](https://deviceframes.com/templates)
