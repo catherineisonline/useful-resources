@@ -108,11 +108,15 @@
 ### Node.js Cheatsheet
 - [devhints.io/nodejs](https://devhints.io/nodejs)
 
+### SQL Cheatsheet
+- [MySQL](https://overapi.com/mysql)
+
 ### Build Tools and Frameworks:
 - [Gulp.js Cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
 
 ## API <a id="api"></a>
 - [Dummy JSON](https://dummyjson.com/docs)
+  
 
   
 ## Learning <a id="learning"></a> 
@@ -125,7 +129,6 @@
 ### Practice
 - [Chingu](https://www.chingu.io/)
 - [FrontendMentor](https://www.frontendmentor.io/)
-- [CodeCombat](https://codecombat.com/)
 ### YouTube
 - [Lydia Hallie](https://www.youtube.com/@theavocoder)
 - [Traversy](https://www.youtube.com/@TraversyMedia/videos)
@@ -141,11 +144,21 @@
 - [React course (video)](https://react2025.com/#course-overview)
 - [JavaScript in Georgian](https://webschool.ge/js/1289)
 - [Algorithms in Georgian](https://www.aiasoft.ge/tutorials)
-
 ### Interactive learning
 - [Learn Git](https://learngitbranching.js.org/)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/simple-recursive/cellular-automata)
-- [Visualising Data Structures](https://visualgo.net/en)
+- [Visualizing Data Structures](https://visualgo.net/en)
+- [CodeCombat](https://codecombat.com/)
+### SQL
+- [SQLTeaching](https://www.sqlteaching.com/)
+- [Intro to SQL (Khan Academy)](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Intro to SQL (Scrimba)](https://scrimba.com/intro-to-sql-c0aviq0aha)
+- [Practice SQL](https://solhsa.com/g3/)
+- [SQLZoo (tasks & quizzes)](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
+
+### TypeScript
+- [TypeScript type challenges](https://github.com/type-challenges/type-challenges?tab=readme-ov-file)
   
 ## React Components & Libraries <a id="reactlibs"></a> 
 
@@ -358,3 +371,5 @@
 ## Other <a id="other"></a> 
 - [CanIUse - check browser support](https://caniuse.com/)
 - [Device Frames](https://deviceframes.com/templates)
+- [Code images](https://www.ray.so/)
+- [Competitive programming](https://codeforces.com/?locale=en)
