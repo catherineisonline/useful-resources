@@ -261,6 +261,7 @@
 - [Font Joy](https://fontjoy.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fonts Arena](https://fontsarena.com/)
+- [FontsWiki](https://fontswiki.com/)
 - [Word Mark](https://wordmark.it/)
 - [Type Scale](https://type-scale.com/)
 ------------------------------------------------------------------------------------------------------------------ 
