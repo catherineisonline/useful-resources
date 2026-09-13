@@ -354,6 +354,7 @@
 ------------------------------------------------------------------------------------------------------------------
 ## Converters <a id="Converters"></a> 
 - <a href="https://css2js.dotenv.dev/">Convert CSS to JS Object, JSX props, etc.<a/>
+- <a href="https://quicktinyv2.vercel.app/case-converter">QuickTiny Case Converter - convert text between upper, lower, title and sentence case, client-side<a/>
 ------------------------------------------------------------------------------------------------------------------
 ## Responsive Design <a id="ResponsiveDesign"></a> 
 - <a href="https://responsively.app/">Check responsiveness on different devices<a/>
