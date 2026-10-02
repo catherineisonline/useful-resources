@@ -246,6 +246,7 @@
 - [Avataaars Generator](https://getavataaars.com/?topType=LongHairBob)
 - [Tilda Icons](https://tilda.cc/free-icons/)
 - [CSS Icons](https://css.gg/)
+- [SVGicons](https://svgicons.com/) - Free SVG icons for developers building web interfaces and product UIs.
 
  
 ------------------------------------------------------------------------------------------------------------------
