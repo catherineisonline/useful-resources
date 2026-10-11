@@ -247,6 +247,7 @@
 - [Tilda Icons](https://tilda.cc/free-icons/)
 - [CSS Icons](https://css.gg/)
 - [SVGicons](https://svgicons.com/) - Free SVG icons for developers building web interfaces and product UIs.
+- [Russian Brand Logos](https://github.com/arturablyazov5-glitch/russian-brand-logos) - SVG logos of 136 Russian brands, grouped by category.
 
  
 ------------------------------------------------------------------------------------------------------------------
