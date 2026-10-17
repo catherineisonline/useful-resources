@@ -116,6 +116,7 @@
 
 ## API <a id="api"></a>
 - [Dummy JSON](https://dummyjson.com/docs)
+- [CurlShot - Website screenshot API (free tier)](https://curlshot.com/)
   
 
   
