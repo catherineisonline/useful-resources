@@ -355,6 +355,7 @@
 ------------------------------------------------------------------------------------------------------------------
 ## Converters <a id="Converters"></a> 
 - <a href="https://css2js.dotenv.dev/">Convert CSS to JS Object, JSX props, etc.<a/>
+- [Pic2Vector - Convert PNG, JPG and WebP images to SVG](https://pic2vector.com/)
 ------------------------------------------------------------------------------------------------------------------
 ## Responsive Design <a id="ResponsiveDesign"></a> 
 - <a href="https://responsively.app/">Check responsiveness on different devices<a/>
