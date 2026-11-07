@@ -362,6 +362,7 @@
 ## Image Optimization <a id="ImageOptimization"></a> 
 - <a href="https://squoosh.app/">Squoosh<a/>
 - <a href="https://tinypng.com/">TinyPNG<a/>
+- <a href="https://picturetolink.com/image-compressor">PictureToLink Image Compressor<a/>
 
 ------------------------------------------------------------------------------------------------------------------
 ## AI tools <a id="ai"></a> 
