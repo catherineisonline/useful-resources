@@ -182,6 +182,7 @@
 - <a href="https://365psd.com/free-psd">365psd<a/>
 - <a href="https://dribbble.com/">Dribbble<a/>
 - <a href="https://freedesignresources.net/category/free-templates/website-templates/">Free Design Resources<a/>
+- <a href="https://kite.new/">Kite<a/> - design tool where your team and AI agents (Claude, Cursor, ChatGPT) edit the same file; copy frames as HTML, React or Tailwind. Free plan.
 ------------------------------------------------------------------------------------------------------------------
 ## Templates <a id="templates"></a> 
   
