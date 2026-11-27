@@ -363,6 +363,7 @@
 ## Image Optimization <a id="ImageOptimization"></a> 
 - <a href="https://squoosh.app/">Squoosh<a/>
 - <a href="https://tinypng.com/">TinyPNG<a/>
+- [Tinymast - compress and resize images, compress and merge PDFs](https://tinymast.com/)
 
 ------------------------------------------------------------------------------------------------------------------
 ## AI tools <a id="ai"></a> 
